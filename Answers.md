@@ -3,3 +3,5 @@ Gitignore files are to ensure that certain files that are not tracked by Git are
 
 # 2 What does the git add command do?
 adding your changing files to your local directory
+
+- All the questions have been answered by 14.59.
